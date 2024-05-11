@@ -1,17 +1,20 @@
-# JAHAN info
-## _Template for news website_
+# News Website
 
-Just for assignment.
-Contains:
-- Header
-- Left sided Navbar
-- Right sidebar
-- Contents
+## Description
 
-## Hex code
-| Color | Hex |
-| ------ | ------ |
-| base | #366345 |
-| link | #2e88cc |
-| nav bg | #f5f5f5 |
-| footer bg | #aaaaaa |
+A simple news website that shows the simplest layout for news websites.
+
+## Features
+
+- Shows a simple layout with a header, left-sided navbar, right sidebar, and content area.
+
+## Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+- Semantic Approach
+
+## Contributors
+
+- Toni
